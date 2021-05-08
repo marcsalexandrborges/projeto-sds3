@@ -1,0 +1,10 @@
+postgres://
+kizootjlrpurxc
+:
+48b764bc9e0f6bc5e5cf3e70261b34446640a1cef947b3b21785b4a7f8bdd4e6
+@
+ec2-54-167-168-52.compute-1.amazonaws.com
+:
+5432
+/
+d22fe6puhfj5d2
